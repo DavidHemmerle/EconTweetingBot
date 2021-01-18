@@ -1,5 +1,5 @@
 # EconTweetingBot
-Twitter Bot for the German #EconTwitter bubble curated by [Makronom Magazin](https://makronom.de/twitter-ranking-econ-einzelwertung).
+Twitter Bot for the German #EconTwitter bubble, whose profiles are taken from the Twitter ranking curated by [Makronom Magazin](https://makronom.de/twitter-ranking-econ-einzelwertung).
 
 ## Implementation
 * Scrape profiles from most current ranking, e.g. https://makronom.de/twitter-ranking-econ-einzelwertung-2-2
