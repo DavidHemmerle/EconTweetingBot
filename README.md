@@ -1,6 +1,7 @@
 # EconTweetingBot
-Twitter Bot for the German #EconTwitter list
+Twitter Bot for the German #EconTwitter bubble curated by [Makronom Magazin](https://makronom.de/twitter-ranking-econ-einzelwertung).
 
+## Implementation
 * Scrape profiles from most current ranking, e.g. https://makronom.de/twitter-ranking-econ-einzelwertung-2-2
 * Create Twitter list with profiles: https://twitter.com/i/lists/1182746180033372165?s=20
 * Use cronjobs to load Twitter data about profiles on a regular basis
